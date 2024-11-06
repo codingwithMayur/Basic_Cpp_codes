@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     int N;
-    cout<<"Enter day number: ";
+    cout<<"Enter number: ";
     cin>>N;
     int i=1;
     while(i<N){
